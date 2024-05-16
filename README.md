@@ -9,3 +9,9 @@ program at TripleTen. It was created using HTML and CSS, based on a design brief
 - Flexbox
 - Positioning
 - Vertical stacking with z-index
+
+## Project Screenshots
+
+![screenshot of the landing page](<./images/screenshot(1).png>)
+![screenshot of the events page](<./images/screenshot(2).png>)
+![screenshot of the recs page](<./images/screenshot(3).png>)
